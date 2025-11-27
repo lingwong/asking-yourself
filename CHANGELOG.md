@@ -1,5 +1,16 @@
 # Changelog
 
+# Changelog
+
+## v3.1.0
+
+### Fixes
+- Adaptive icon foreground scaled to 72% to avoid mask cropping
+- CI workflow syntax corrected; push and tag triggers fixed
+
+### Technical
+- Version bump: `versionCode=31`, `versionName=3.1.0`
+
 ## v0.3.0 (Initial release)
 
 ### Features
@@ -20,4 +31,3 @@
 - Kotlin + Jetpack Compose, Compose BOM 2024.10.00
 - Target SDK 34, Min SDK 24
 - Kotlin compiler extension 1.5.14, JVM target 17
-
