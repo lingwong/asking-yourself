@@ -3,8 +3,8 @@
     <item>
         <scale
             android:drawable="@drawable/ic_app_png"
-            android:scaleWidth="80%"
-            android:scaleHeight="80%"
+            android:scaleWidth="72%"
+            android:scaleHeight="72%"
             android:gravity="center" />
     </item>
 </layer-list>
