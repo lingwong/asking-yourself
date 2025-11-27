@@ -2,14 +2,14 @@
 
 # Changelog
 
-## v3.1.0
+## v0.3.1
 
 ### Fixes
 - Adaptive icon foreground scaled to 72% to avoid mask cropping
 - CI workflow syntax corrected; push and tag triggers fixed
 
 ### Technical
-- Version bump: `versionCode=31`, `versionName=3.1.0`
+- Version bump: `versionCode=31`, `versionName=0.3.1`
 
 ## v0.3.0 (Initial release)
 
