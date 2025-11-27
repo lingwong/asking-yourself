@@ -1,0 +1,10 @@
+* text=auto
+
+# Ensure Gradle wrapper uses LF on Linux runners
+gradlew text eol=lf
+
+# Shell scripts use LF
+*.sh text eol=lf
+
+# Windows batch files keep CRLF
+*.bat text eol=crlf
